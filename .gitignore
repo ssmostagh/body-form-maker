@@ -1,0 +1,25 @@
+# Ignore exported 3D meshes
+*.stl
+*.STL
+*.obj
+*.OBJ
+
+# Ignore local datasets / scratch files in workspace
+StarterKit.zip
+anny/
+DataReader/
+Demo/
+Samples/
+Dockerfile
+Dockerfile.gpu
+requirements.txt
+server.py
+app.js
+index.html
+style.css
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
