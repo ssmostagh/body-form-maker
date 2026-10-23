@@ -17,6 +17,7 @@ server.py
 app.js
 index.html
 style.css
+build_body_form_maker.py
 
 # OS / Editor artifacts
 .DS_Store
